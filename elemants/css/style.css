@@ -188,3 +188,12 @@ body{
     background-color: #fff;
     border-radius: 0;
 }
+.counter-contant i{
+    font-size: 30px;
+}
+.counter-contant span{
+    font-size: 30px;
+}
+.counter-contant p{
+    font-size: 15px;
+}
