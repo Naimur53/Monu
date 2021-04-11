@@ -197,3 +197,26 @@ body{
 .counter-contant p{
     font-size: 15px;
 }
+.img-overley-contant h2{
+    font-size: 22px;
+    color: #3f3f3f;
+}
+.img-overley-contant p{
+    font-size: 15px;
+    color: #595959;
+}
+.img-overley{
+    background: rgba(251,251,251,.9);
+    position:absolute;
+    top:0;
+    left: 0;
+    right: 0;
+    bottom:0;
+    transform:scale(1);
+   opacity: 0;
+    transition:.5s;
+}
+.team-img:hover .img-overley{
+    opacity:1;
+    transform:scale(.8);
+}
