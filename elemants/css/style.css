@@ -127,3 +127,60 @@ body{
    font-size: 14px;
    color:#808080;
 }
+.service-contant i{
+    font-size: 45px;
+    color:#505cfd;
+}
+.service-contant h3{
+     font-size: 22px;
+     color:#3f3f3f;
+     margin-bottom: 20px;
+     transition: .3s;
+}
+.service-contant p{
+     font-size: 15px;
+     color:#595959;
+}
+.service-contant{
+    transition: .3s;
+}
+.service-contant:hover{
+     background:#343434; 
+}
+.service-contant:hover h3{ 
+     color:#fff;
+}
+.service-contant:hover a{ 
+     color:#fff;
+}
+.section-heading-area h2{
+    font-size: 32px;
+    color:#404044; 
+}
+.section-heading-area p{
+    font-size: 15px;
+    color:#595959; 
+}
+.pricing{
+    background: #e7e8fe;
+}
+.list-group-item { 
+    background-color:transparent; 
+}
+.card{
+    background-color: transparent;
+}
+.card .list-group-item{
+    font-size: 22px;
+    color: #3f3f3f;
+    font-weight: 600;
+}
+.card-body h3{
+    color:#505cfd;
+    font-size: 40px;
+}
+.card-body p{
+    color:#595959;
+    font-size: 15px;
+    line-height: 45px;
+}
