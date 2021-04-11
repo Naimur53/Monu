@@ -1,0 +1,46 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.nav-link{
+    font-size: 14px;
+    padding-right: 2.5rem !important;
+    padding-left: 0.5rem !important;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: rgba(0,0,0);
+}
+.fs-6{
+    font-size: 14px !important;
+}
+.border-blue{
+    border-color: #505cfd;
+}
+.slider-wrap{
+    width: 100%;
+    height: 100vh;
+    background:url(../images/slider-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.social ul{
+    list-style: none; 
+}
+.social ul li a{
+    font-size: 20px;
+}
+.slider-heading h2{
+    font-size: 72px;
+    color:#595959;
+    font-weight: 700;
+}
+.slider-heading p{
+   font-size: 15px;
+   color:#343434; 
+}
+.slider-heading a{
+   font-size: 15px;
+   color:#595959; 
+   padding:10px 30px;
+   font-weight: 700;
+}
