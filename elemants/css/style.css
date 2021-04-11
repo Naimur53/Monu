@@ -220,3 +220,21 @@ body{
     opacity:1;
     transform:scale(.8);
 }
+.w-contant h2{
+    font-size: 24px;
+    color:#3f3f3f;
+}
+.w-contant hr{
+    display: inline-block;
+    width: 50px;
+    margin-top: 0;
+    opacity: 1;
+}
+.date p{
+   font-size: 14px;  
+   color: #595959;
+}
+.w-contant p{
+    font-size: 15px;
+    line-height: 30px;
+}
