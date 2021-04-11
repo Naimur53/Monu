@@ -98,3 +98,32 @@ body{
     background-position: center;
     background-repeat: no-repeat; 
 }
+.benner-contant h2{
+    font-size: 32px;
+    color:#404044;
+    margin-bottom:15px;
+}
+.benner-contant p{
+    font-size: 15px;
+    color:#595959;
+    margin-bottom:40px;
+}
+.benner-contant form input{
+    padding:10px 15px;
+    border:none;
+    margin-left:10px;
+    border-radius: 30px;
+}
+.benner-contant form input[type=submit]{
+    padding:10px 30px;
+    border:none;
+    border-radius: 30px;
+    background:#505cfd;
+    color: #fff;
+    font-size:14px;
+    margin-left:20px;
+}
+.benner-contant form input::placeholder{
+   font-size: 14px;
+   color:#808080;
+}
