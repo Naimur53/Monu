@@ -184,3 +184,7 @@ body{
     font-size: 15px;
     line-height: 45px;
 }
+.card-active{
+    background-color: #fff;
+    border-radius: 0;
+}
