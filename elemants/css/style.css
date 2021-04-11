@@ -272,3 +272,15 @@ body{
 .logo {
     width: inherit;
 }
+footer{
+    background:#343434;
+}
+.footer-content-left h3{
+    font-size: 22px; 
+}
+.footer-content-left p{
+    font-size: 15px;
+    color:#777777;
+    line-height:30px;
+   
+}
