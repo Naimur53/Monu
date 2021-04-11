@@ -1,6 +1,9 @@
 body{
     font-family: 'Poppins', sans-serif;
 } 
+.def-bg{
+    background: #505cfd;
+}
 .nav-link{
     font-size: 14px;
     padding-right: 2.5rem !important;
@@ -13,7 +16,10 @@ body{
     font-size: 14px !important;
 }
 .border-blue{
-    border-color: #505cfd;
+    border-color: #505cfd !important;
+}
+.border-blue2{
+    border-color: #6a74fc !important;
 }
 .slider-single-wrap{
     width: 100%;
@@ -43,4 +49,52 @@ body{
    color:#595959; 
    padding:10px 30px;
    font-weight: 700;
+} 
+.features-area .container{
+    border-radius: 15px; 
+    position: absolute;
+    top:-120px;
+    left: 0;
+    right: 0;
+    
+}
+.elemant-features i{
+    font-size:30px;
+}
+.elemant-features .contant h2{
+    font-size:22px;
+    margin-bottom:30px;
+}
+.elemant-features .contant p{
+    font-size:15px;
+    margin: 0;
+}
+.wordpress-contant h2{
+    font-size: 32px;
+    line-height: 45px;
+    color: #404044;
+    font-weight: 600;
+}
+.wordpress-contant p{
+    font-size: 15px; 
+    color: #595959;
+    line-height: 28px;
+}
+.wordpress-contant a{
+    font-size: 14px; 
+    color: #595959;
+    font-weight: 600;
+    padding:10px 30px
+}
+.wordpress-contant hr{
+   opacity: 1;
+   width: 50px;
+   height: 2px;
+}
+.benner{
+    width: 100%;
+    background: url(../images/benner-bg.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
 }
