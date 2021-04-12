@@ -287,3 +287,18 @@ footer{
     font-size: 15px;
     color:#777777;
 }
+.img-blog{
+    width:16%;
+}
+.blog-contant-p p{
+    color:#777777;
+    font-size:12px;
+}
+.blog-contant-p h3{
+  font-size:17px;
+  color:#777777;
+}
+.down-footer p{
+    color:#777777;
+    font-size:12px;
+}
