@@ -283,4 +283,7 @@ footer{
     color:#777777;
     line-height:30px;
    
+}.list-div ul li{
+    font-size: 15px;
+    color:#777777;
 }
