@@ -32,8 +32,57 @@ px      68    160    252    */
 
 @media only screen and (max-width: 767px) {
 	
+	.features-area .container { 
+		position: static;
+		 
+	}
+	.container.pt-5.mt-5.overflow-hidden{
+		padding-top:0px!important ;   
+		margin-top:0px!important ;    
+		padding-bottom:1.5rem;
 	 
-	
+	}
+	.res-def{
+		flex-direction: column-reverse;
+	}
+	.wordpress-contant{
+		padding-top:0px !important;
+	}
+	.down-footer{
+		flex-direction: column;
+	}
+	.down-left-contant{
+		padding-left: 40px;
+	}
+	.benner-contant form input {
+		padding: 10px 2%; 
+		margin-left: 0px; 
+		margin-top: 10px;
+		width: 75%;
+	}
+	.benner-contant form input[type="submit"] { 
+		margin-left: 0px;
+		width: inherit;
+	}
+	.benner-contant form { 
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center; 
+	}
+	.col-md-4.d-flex.justify-content-center{
+		margin-bottom: 30px;
+	}
+	 .w-contant {
+		margin-bottom: 17px;
+	}
+	.service-contant { 
+		margin-bottom: 20px;
+	}
+	.navbar-nav { 
+		background:rgba(80, 92, 253,0.3); 
+		backdrop-filter:blur(5px);  
+	}
 }
 
 

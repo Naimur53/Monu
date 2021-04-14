@@ -123,6 +123,9 @@ body{
     font-size:14px;
     margin-left:20px;
 }
+.card-flex{
+    justify-content: space-evenly;
+}
 .benner-contant form input::placeholder{
    font-size: 14px;
    color:#808080;
