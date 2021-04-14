@@ -79,9 +79,13 @@ px      68    160    252    */
 	.service-contant { 
 		margin-bottom: 20px;
 	}
-	.navbar-nav { 
-		background:rgba(80, 92, 253,0.3); 
+	.black { 
+		background:rgba(255, 255, 255,0.8)!important; 
 		backdrop-filter:blur(5px);  
+		-moz-backdrop-filter:blur(5px);  
+		-webkit-backdrop-filter:blur(5px);  
+		-o-backdrop-filter:blur(5px);  
+		-ms-backdrop-filter:blur(5px);  
 	}
 }
 
