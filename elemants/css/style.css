@@ -305,3 +305,6 @@ footer{
     color:#777777;
     font-size:12px;
 }  
+html {
+    scroll-behavior:smooth;
+  } 
